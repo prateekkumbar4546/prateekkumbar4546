@@ -14,6 +14,6 @@
 - 🔭 I’m currently working on Data Science and Machine learning
 - 🌱 I’m currently learning Data science 
 - 👯 I’m looking to collaborate on Data science and Machine Learning projects
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Data science and Machine Learning
 - 💬 Ask me about Python, Data science and Machine Learning
 - 📫 How to reach me: prateekkumbar@gmail.com 
